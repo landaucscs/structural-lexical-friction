@@ -1,0 +1,51 @@
+pair_id,condition,text,WC,FRE,TTR,MCD,MaxCD,MAL,MaxArcCross,n_sent,sylcount_per_word
+0,low_friction,The investigator discovered the data and the team published the report.,11,41.852,0.7273,0.0,0,1.9,3,1,1.818
+0,high_friction,That the investigator discovered the data compelled the team to publish.,11,41.852,0.8182,2.0,2,1.8,2,1,1.818
+1,low_friction,The scientist confirmed the result and the journal accepted the paper.,11,49.543,0.7273,0.0,0,1.9,3,1,1.727
+1,high_friction,Whether the scientist confirmed the result determined the journal acceptance.,10,27.485,0.8,1.0,1,1.778,2,1,2.0
+2,low_friction,The court denied the motion and the lawyer appealed the decision.,11,64.925,0.7273,0.0,0,1.9,3,1,1.545
+2,high_friction,That the court denied the motion forced the lawyer to appeal urgently.,12,67.755,0.8333,2.0,2,1.727,2,1,1.5
+3,low_friction,The reader noticed the error and the editor corrected the manuscript.,11,41.852,0.7273,0.0,0,1.9,3,1,1.818
+3,high_friction,That the reader noticed the error obliged the editor to revise.,11,57.234,0.8182,2.0,2,1.6,1,1,1.636
+4,low_friction,The teacher reviewed the answer and the student rewrote the essay.,11,64.925,0.7273,0.0,0,1.7,2,1,1.545
+4,high_friction,That the teacher reviewed the answer required the student to rewrite.,11,57.234,0.8182,2.0,2,1.7,2,1,1.636
+5,low_friction,The witness recalled the event and the prosecutor recorded the statement.,11,41.852,0.7273,0.0,0,1.9,3,1,1.818
+5,high_friction,Whether the witness recalled the event mattered to the prosecutor's case.,11,49.543,0.8182,1.0,1,1.636,2,1,1.727
+6,low_friction,The engineer tested the device and the company released the product.,11,49.543,0.7273,0.0,0,1.9,3,1,1.727
+6,high_friction,That the engineer tested the device convinced the company to ship.,11,57.234,0.8182,2.0,2,1.9,2,1,1.636
+7,low_friction,The author finished the chapter and the publisher scheduled the release.,11,57.234,0.7273,0.0,0,1.9,2,1,1.636
+7,high_friction,That the author finished the chapter allowed the publisher to schedule.,11,57.234,0.8182,0.0,0,1.8,2,1,1.636
+8,low_friction,The committee reviewed the bid and the agency approved the contract.,11,57.234,0.7273,0.0,0,1.7,2,1,1.636
+8,high_friction,That the committee reviewed the bid satisfied the agency's procurement rules.,11,41.852,0.8182,1.0,1,2.0,2,1,1.818
+9,low_friction,The reporter covered the case and the newspaper printed the article.,11,49.543,0.7273,0.0,0,1.9,3,1,1.727
+9,high_friction,That the reporter covered the case let the newspaper print exclusively.,11,49.543,0.8182,2.0,2,1.6,1,1,1.727
+10,low_friction,The artist painted the portrait and the gallery exhibited the work.,11,49.543,0.7273,0.0,0,1.9,3,1,1.727
+10,high_friction,Whether the artist painted the portrait determined the gallery's exhibition.,10,19.025,0.8,1.0,1,1.9,2,1,2.1
+11,low_friction,The chef prepared the dish and the critic praised the restaurant.,11,80.306,0.7273,0.0,0,1.7,2,1,1.364
+11,high_friction,That the chef prepared the dish surprised the critic at the restaurant.,12,74.805,0.75,1.0,1,1.727,2,1,1.417
+12,low_friction,The pilot completed the flight and the mechanic inspected the aircraft.,11,49.543,0.7273,0.0,0,1.7,2,1,1.727
+12,high_friction,That the pilot completed the flight allowed the mechanic to inspect.,11,57.234,0.8182,1.0,1,1.9,2,1,1.636
+13,low_friction,The student solved the problem and the professor accepted the answer.,11,57.234,0.7273,0.0,0,1.9,3,1,1.636
+13,high_friction,That the student solved the problem assured the professor of competence.,11,57.234,0.8182,1.0,1,1.6,2,1,1.636
+14,low_friction,The reviewer flagged the issue and the developer patched the bug.,11,64.925,0.7273,0.0,0,1.9,3,1,1.545
+14,high_friction,That the reviewer flagged the issue obliged the developer to patch.,11,57.234,0.8182,1.0,1,1.8,2,1,1.636
+15,low_friction,The doctor examined the patient and the nurse updated the chart.,11,64.925,0.7273,0.0,0,1.9,3,1,1.545
+15,high_friction,That the doctor examined the patient required the nurse to update.,11,57.234,0.8182,1.0,1,1.9,2,1,1.636
+16,low_friction,The detective interviewed the suspect and the captain closed the case.,11,64.925,0.7273,0.0,0,1.9,3,1,1.545
+16,high_friction,That the detective interviewed the suspect persuaded the captain to close.,11,49.543,0.8182,2.0,2,1.8,2,1,1.727
+17,low_friction,The auditor reviewed the books and the board ratified the report.,11,64.925,0.7273,0.0,0,1.9,3,1,1.545
+17,high_friction,That the auditor reviewed the books permitted the board to ratify.,11,57.234,0.8182,2.0,2,1.7,2,1,1.636
+18,low_friction,The driver followed the route and the dispatcher logged the trip.,11,80.306,0.7273,0.0,0,1.9,3,1,1.364
+18,high_friction,That the driver followed the route helped the dispatcher to log.,11,80.306,0.8182,2.0,2,1.6,1,1,1.364
+19,low_friction,The clerk processed the form and the office mailed the response.,11,87.997,0.7273,0.0,0,1.9,3,1,1.273
+19,high_friction,That the clerk processed the form let the office mail the response.,12,88.905,0.75,1.0,1,1.727,2,1,1.25
+20,low_friction,The senator drafted the bill and the committee voted on the proposal.,12,53.655,0.75,0.0,0,1.818,3,1,1.667
+20,high_friction,That the senator drafted the bill compelled the committee to vote.,11,64.925,0.8182,2.0,2,1.8,2,1,1.545
+21,low_friction,The mayor announced the policy and the city implemented the change.,11,49.543,0.7273,1.0,1,2.1,3,1,1.727
+21,high_friction,That the mayor announced the policy obliged the city to implement.,11,49.543,0.8182,2.0,2,1.8,2,1,1.727
+22,low_friction,The professor lectured on theory and the students debated the topic.,11,49.543,0.8182,1.0,1,2.5,3,1,1.727
+22,high_friction,That the professor lectured on theory inspired the students to debate.,11,49.543,0.9091,1.0,1,2.2,2,1,1.727
+23,low_friction,The composer wrote the score and the orchestra rehearsed the piece.,11,72.615,0.7273,0.0,0,1.7,2,1,1.455
+23,high_friction,That the composer wrote the score required the orchestra to rehearse.,11,57.234,0.8182,2.0,2,1.8,2,1,1.636
+24,low_friction,The farmer planted the crop and the buyer purchased the harvest.,11,72.615,0.7273,0.0,0,1.9,3,1,1.455
+24,high_friction,That the farmer planted the crop assured the buyer of a harvest.,12,74.805,0.8333,1.0,1,1.636,2,1,1.417

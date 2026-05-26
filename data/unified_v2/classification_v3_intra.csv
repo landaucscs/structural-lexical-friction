@@ -1,0 +1,9 @@
+name,auc_lr,auc_gbm,register,tier,n
+wikitext_modern_encyclopedic_T1_noFRE,0.9813,0.9811,wikitext_modern_encyclopedic,T1_noFRE,1000
+wikitext_modern_encyclopedic_T3_noFRE,0.9907,0.9894,wikitext_modern_encyclopedic,T3_noFRE,1000
+brown_news_general_T1_noFRE,0.9909,0.96,brown_news_general,T1_noFRE,200
+brown_news_general_T3_noFRE,0.9961,0.9737,brown_news_general,T3_noFRE,200
+gutenberg_fiction_T1_noFRE,0.9984,0.9963,gutenberg_fiction,T1_noFRE,926
+gutenberg_fiction_T3_noFRE,0.9964,0.998,gutenberg_fiction,T3_noFRE,926
+reuters_newswire_T1_noFRE,0.995,0.9922,reuters_newswire,T1_noFRE,740
+reuters_newswire_T3_noFRE,0.9972,0.9948,reuters_newswire,T3_noFRE,740

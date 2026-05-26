@@ -1,0 +1,101 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# --- Local secrets / environment ---
+.env
+.env.local
+secrets/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# --- Intermediate / regenerable build artefacts ---
+manuscript.html
+progress.log
+
+# --- Legacy v1/v2 intermediate corpora (regenerable from fetchers; excluded
+#     to keep the repository size manageable for ordinary cloners).
+#     The v3 canonical corpus is retained under data/unified_v3/. ---
+data/baseline/
+data/high_density/csat/
+data/high_density/arxiv/
+data/high_density/legal/
+data/high_density/legal_v2/
+data/high_density/legal_v2_clean/
+data/high_density/logiqa/
+data/unified/
+data/unified_v2/corpus.csv
+data/unified_v2/corpus.jsonl
+data/unified_v2/metrics_v2_sm.csv
+data/unified_v2/metrics_v2_sm.jsonl
+data/unified_v2/metrics_v2_trf.csv
+data/unified_v2/metrics_v2_trf.jsonl
+data/unified_v2/metrics_v2_trf_full.csv
+data/unified_v2/metrics_v3_sm.jsonl
+data/unified_v3/corpus.csv
+data/unified_v3/corpus_length_matched.jsonl
+data/v1_legacy/
+corpus_data.csv
+
+# --- Background-task / scratch files ---
+data/*/*.log
+data/*/fetch.log
+data/*/boost.log
+data/*/bulk_fetch.log
+data/*/sm_parse_v2.log
+data/*/sm_parse_v3.log
+data/*/trf_parse.log
+data/*/trf_parse_v3.log
+data/orchestrator_v3.log
+data/nested_cv_recover.log
+data/nested_cv_v3.log
+data/stanza_v3_subset.log
+data/unified_v3_sm_parse.log
+data/unified_v3_trf_parse.log
+
+# --- Wiki/NLTK caches ---
+data/baseline/wikitext/
+data/baseline/reuters/
+data/baseline/onestop/
+data/baseline/gutenberg/
+data/baseline/wikipedia/
+
+# --- Legacy v1 / scratch ---
+ai prose softening/
+RESUME_HERE.md
+NEXT_SESSION_*.md
+
+# --- Regenerable intermediate metric tables / length-matched derivations ---
+data/unified_v2/metrics_v2_sm_lm.csv
+data/unified_v2/metrics_v2_sm_lm.jsonl
+data/unified_v2/metrics_v3_sm_lm.csv
+data/unified_v2/metrics_v3_sm_lm.jsonl
+data/unified_v2/classification_v2_*.csv
+data/unified_v2/classification_v2_*.md
+data/unified_v2/classification_v2_*.json
+data/unified_v2/metrics.json
+data/unified_v2/text7_paragraph_b_metrics.json
+
+# --- Old verify outputs (v2 is canonical) ---
+verified_citations.json
+verify_dois.py
+generate_linguistic_data.py
+metric_variance.png
+metrics.json
+text7_paragraph_b_metrics.json
+results_table.md
+corpus_data.csv

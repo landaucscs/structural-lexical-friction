@@ -1,0 +1,58 @@
+{
+  "WC": {
+    "mean_low": 11.04,
+    "mean_high": 11.08,
+    "delta_high_minus_low": 0.04,
+    "wilcoxon_W": 12.0,
+    "wilcoxon_p": 0.7054569861112734
+  },
+  "FRE": {
+    "mean_low": 59.2441,
+    "mean_high": 56.0708,
+    "delta_high_minus_low": -3.1733,
+    "wilcoxon_W": 63.5,
+    "wilcoxon_p": 0.3371478348719037
+  },
+  "TTR": {
+    "mean_low": 0.7318,
+    "mean_high": 0.8161,
+    "delta_high_minus_low": 0.0843,
+    "wilcoxon_W": 0.0,
+    "wilcoxon_p": 5.519393341037471e-06
+  },
+  "MCD": {
+    "mean_low": 0.08,
+    "mean_high": 1.44,
+    "delta_high_minus_low": 1.36,
+    "wilcoxon_W": 0.0,
+    "wilcoxon_p": 1.5203357604563708e-05
+  },
+  "MaxCD": {
+    "mean_low": 0.08,
+    "mean_high": 1.44,
+    "delta_high_minus_low": 1.36,
+    "wilcoxon_W": 0.0,
+    "wilcoxon_p": 1.5203357604563708e-05
+  },
+  "MAL": {
+    "mean_low": 1.8887,
+    "mean_high": 1.7772,
+    "delta_high_minus_low": -0.1115,
+    "wilcoxon_W": 41.0,
+    "wilcoxon_p": 0.009428360956527685
+  },
+  "MaxArcCross": {
+    "mean_low": 2.76,
+    "mean_high": 1.88,
+    "delta_high_minus_low": -0.88,
+    "wilcoxon_W": 0.0,
+    "wilcoxon_p": 3.808961977046787e-05
+  },
+  "sylcount_per_word": {
+    "mean_low": 1.612,
+    "mean_high": 1.649,
+    "delta_high_minus_low": 0.037,
+    "wilcoxon_W": 61.0,
+    "wilcoxon_p": 0.28454737044445855
+  }
+}

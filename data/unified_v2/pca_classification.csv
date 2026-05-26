@@ -1,0 +1,5 @@
+tier,n_feat,AUC
+T1_surface,5,0.9823
+T1+PC1,6,0.9825
+T1+PC1+PC2,7,0.9826
+T3_full,17,0.9901

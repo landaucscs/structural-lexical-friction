@@ -1,0 +1,37 @@
+{
+  "n": 46,
+  "registers": [
+    "csat",
+    "arxiv_abstract",
+    "judicial_opinion",
+    "brown_news_general",
+    "gutenberg_fiction",
+    "simple_wikipedia",
+    "wikitext_modern_encyclopedic",
+    "reuters_newswire",
+    "onestop_ele",
+    "onestop_int"
+  ],
+  "correlations": {
+    "MCD_sm_vs_MCD_trf": {
+      "pearson_r": 0.9302,
+      "p_value": 8.981462819289383e-21,
+      "mean_diff": 0.0423
+    },
+    "MCD_sm_vs_MCD_stanza": {
+      "pearson_r": 0.8934,
+      "p_value": 6.822816972861528e-17,
+      "mean_diff": -0.0412
+    },
+    "MCD_trf_vs_MCD_stanza": {
+      "pearson_r": 0.9355,
+      "p_value": 1.6815189666249764e-21,
+      "mean_diff": -0.0836
+    }
+  },
+  "mean_time": {
+    "sm": 0.1612173913043478,
+    "trf": 1.0006521739130434,
+    "stanza": 6.444065217391306
+  }
+}

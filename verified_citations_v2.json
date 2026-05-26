@@ -1,0 +1,397 @@
+[
+  {
+    "key": "flesch_1948",
+    "doi": "10.1037/h0057532",
+    "expected_year": 1948,
+    "expected_authors": [
+      "Flesch"
+    ],
+    "expected_title": "readability",
+    "expected_journal": "applied psychology",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.1037/h0057532",
+    "doi_url": "https://doi.org/10.1037/h0057532",
+    "scholar_url": "https://scholar.google.com/scholar?q=readability+Flesch",
+    "actual_title": "a new readability yardstick.",
+    "actual_authors": [
+      "Flesch Rudolph"
+    ],
+    "actual_year": 1948,
+    "actual_journal": "journal of applied psychology"
+  },
+  {
+    "key": "klare_1974",
+    "doi": "10.2307/747086",
+    "expected_year": 1974,
+    "expected_authors": [
+      "Klare"
+    ],
+    "expected_title": "readability",
+    "expected_journal": "reading research",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.2307/747086",
+    "doi_url": "https://doi.org/10.2307/747086",
+    "scholar_url": "https://scholar.google.com/scholar?q=readability+Klare",
+    "actual_title": "assessing readability",
+    "actual_authors": [
+      "Klare George R."
+    ],
+    "actual_year": 1974,
+    "actual_journal": "reading research quarterly"
+  },
+  {
+    "key": "dubay_2007",
+    "doi": "10.4135/9781452225999.n45",
+    "expected_year": 2007,
+    "expected_authors": [
+      "DuBay"
+    ],
+    "expected_title": "readability",
+    "expected_journal": "encyclopedia",
+    "verdict": "FAIL_RESOLVE",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.4135/9781452225999.n45",
+    "doi_url": "https://doi.org/10.4135/9781452225999.n45",
+    "scholar_url": "https://scholar.google.com/scholar?q=readability+DuBay"
+  },
+  {
+    "key": "kintsch_1988",
+    "doi": "10.1037/0033-295X.95.2.163",
+    "expected_year": 1988,
+    "expected_authors": [
+      "Kintsch"
+    ],
+    "expected_title": "discourse comprehension",
+    "expected_journal": "psychological review",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.1037/0033-295X.95.2.163",
+    "doi_url": "https://doi.org/10.1037/0033-295X.95.2.163",
+    "scholar_url": "https://scholar.google.com/scholar?q=discourse comprehension+Kintsch",
+    "actual_title": "the role of knowledge in discourse comprehension: a construction-integration model.",
+    "actual_authors": [
+      "Kintsch Walter"
+    ],
+    "actual_year": 1988,
+    "actual_journal": "psychological review"
+  },
+  {
+    "key": "sweller_1988",
+    "doi": "10.1207/s15516709cog1202_4",
+    "expected_year": 1988,
+    "expected_authors": [
+      "Sweller"
+    ],
+    "expected_title": "cognitive load",
+    "expected_journal": "cognitive science",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.1207/s15516709cog1202_4",
+    "doi_url": "https://doi.org/10.1207/s15516709cog1202_4",
+    "scholar_url": "https://scholar.google.com/scholar?q=cognitive load+Sweller",
+    "actual_title": "cognitive load during problem solving: effects on learning",
+    "actual_authors": [
+      "Sweller John"
+    ],
+    "actual_year": 1988,
+    "actual_journal": "cognitive science"
+  },
+  {
+    "key": "just_carpenter_1992",
+    "doi": "10.1037/0033-295X.99.1.122",
+    "expected_year": 1992,
+    "expected_authors": [
+      "Just",
+      "Carpenter"
+    ],
+    "expected_title": "capacity theory",
+    "expected_journal": "psychological review",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.1037/0033-295X.99.1.122",
+    "doi_url": "https://doi.org/10.1037/0033-295X.99.1.122",
+    "scholar_url": "https://scholar.google.com/scholar?q=capacity theory+Just",
+    "actual_title": "a capacity theory of comprehension: individual differences in working memory.",
+    "actual_authors": [
+      "Just Marcel A.",
+      "Carpenter Patricia A."
+    ],
+    "actual_year": 1992,
+    "actual_journal": "psychological review"
+  },
+  {
+    "key": "mcnamara_1996",
+    "doi": "10.1207/s1532690xci1401_1",
+    "expected_year": 1996,
+    "expected_authors": [
+      "McNamara",
+      "Kintsch"
+    ],
+    "expected_title": "good texts",
+    "expected_journal": "cognition and instruction",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.1207/s1532690xci1401_1",
+    "doi_url": "https://doi.org/10.1207/s1532690xci1401_1",
+    "scholar_url": "https://scholar.google.com/scholar?q=good texts+McNamara",
+    "actual_title": "are good texts always better? interactions of text coherence, background knowledge, and levels of understanding in learning from text",
+    "actual_authors": [
+      "McNamara Danielle S.",
+      "Kintsch Eileen",
+      "Songer Nancy Butler",
+      "Kintsch Walter"
+    ],
+    "actual_year": 1996,
+    "actual_journal": "cognition and instruction"
+  },
+  {
+    "key": "gibson_1998",
+    "doi": "10.1016/S0010-0277(98)00034-1",
+    "expected_year": 1998,
+    "expected_authors": [
+      "Gibson"
+    ],
+    "expected_title": "linguistic complexity",
+    "expected_journal": "cognition",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.1016/S0010-0277(98)00034-1",
+    "doi_url": "https://doi.org/10.1016/S0010-0277(98)00034-1",
+    "scholar_url": "https://scholar.google.com/scholar?q=linguistic complexity+Gibson",
+    "actual_title": "linguistic complexity: locality of syntactic dependencies",
+    "actual_authors": [
+      "Gibson Edward"
+    ],
+    "actual_year": 1998,
+    "actual_journal": "cognition"
+  },
+  {
+    "key": "rayner_1998",
+    "doi": "10.1037/0033-2909.124.3.372",
+    "expected_year": 1998,
+    "expected_authors": [
+      "Rayner"
+    ],
+    "expected_title": "eye movements",
+    "expected_journal": "psychological bulletin",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.1037/0033-2909.124.3.372",
+    "doi_url": "https://doi.org/10.1037/0033-2909.124.3.372",
+    "scholar_url": "https://scholar.google.com/scholar?q=eye movements+Rayner",
+    "actual_title": "eye movements in reading and information processing: 20 years of research.",
+    "actual_authors": [
+      "Rayner Keith"
+    ],
+    "actual_year": 1998,
+    "actual_journal": "psychological bulletin"
+  },
+  {
+    "key": "graesser_2004_cohmetrix",
+    "doi": "10.3758/BF03195564",
+    "expected_year": 2004,
+    "expected_authors": [
+      "Graesser",
+      "McNamara"
+    ],
+    "expected_title": "coh-metrix",
+    "expected_journal": "behavior research methods",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.3758/BF03195564",
+    "doi_url": "https://doi.org/10.3758/BF03195564",
+    "scholar_url": "https://scholar.google.com/scholar?q=coh-metrix+Graesser",
+    "actual_title": "coh-metrix: analysis of text on cohesion and language",
+    "actual_authors": [
+      "Graesser Arthur C.",
+      "McNamara Danielle S.",
+      "Louwerse Max M.",
+      "Cai Zhiqiang"
+    ],
+    "actual_year": 2004,
+    "actual_journal": "behavior research methods, instruments, &amp; computers"
+  },
+  {
+    "key": "lu_2010",
+    "doi": "10.1075/ijcl.15.4.02lu",
+    "expected_year": 2010,
+    "expected_authors": [
+      "Lu"
+    ],
+    "expected_title": "syntactic complexity",
+    "expected_journal": "corpus linguistics",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.1075/ijcl.15.4.02lu",
+    "doi_url": "https://doi.org/10.1075/ijcl.15.4.02lu",
+    "scholar_url": "https://scholar.google.com/scholar?q=syntactic complexity+Lu",
+    "actual_title": "automatic analysis of syntactic complexity in second language writing",
+    "actual_authors": [
+      "Lu Xiaofei"
+    ],
+    "actual_year": 2010,
+    "actual_journal": "international journal of corpus linguistics"
+  },
+  {
+    "key": "kyle_2018",
+    "doi": "10.1111/modl.12468",
+    "expected_year": 2018,
+    "expected_authors": [
+      "Kyle",
+      "Crossley"
+    ],
+    "expected_title": "syntactic complexity",
+    "expected_journal": "modern language",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.1111/modl.12468",
+    "doi_url": "https://doi.org/10.1111/modl.12468",
+    "scholar_url": "https://scholar.google.com/scholar?q=syntactic complexity+Kyle",
+    "actual_title": "measuring syntactic complexity in l2 writing using fine‐grained clausal and phrasal indices",
+    "actual_authors": [
+      "KYLE KRISTOPHER",
+      "CROSSLEY SCOTT A."
+    ],
+    "actual_year": 2018,
+    "actual_journal": "the modern language journal"
+  },
+  {
+    "key": "crossley_2019",
+    "doi": "10.1111/1467-9817.12283",
+    "expected_year": 2019,
+    "expected_authors": [
+      "Crossley"
+    ],
+    "expected_title": "readability",
+    "expected_journal": "research in reading",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.1111/1467-9817.12283",
+    "doi_url": "https://doi.org/10.1111/1467-9817.12283",
+    "scholar_url": "https://scholar.google.com/scholar?q=readability+Crossley",
+    "actual_title": "moving beyond classic readability formulas: new methods and new models",
+    "actual_authors": [
+      "Crossley Scott A.",
+      "Skalicky Stephen",
+      "Dascalu Mihai"
+    ],
+    "actual_year": 2019,
+    "actual_journal": "journal of research in reading"
+  },
+  {
+    "key": "barr_2013",
+    "doi": "10.1016/j.jml.2012.11.001",
+    "expected_year": 2013,
+    "expected_authors": [
+      "Barr",
+      "Levy"
+    ],
+    "expected_title": "random effects",
+    "expected_journal": "memory and language",
+    "verdict": "PASS",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.1016/j.jml.2012.11.001",
+    "doi_url": "https://doi.org/10.1016/j.jml.2012.11.001",
+    "scholar_url": "https://scholar.google.com/scholar?q=random effects+Barr",
+    "actual_title": "random effects structure for confirmatory hypothesis testing: keep it maximal",
+    "actual_authors": [
+      "Barr Dale J.",
+      "Levy Roger",
+      "Scheepers Christoph",
+      "Tily Harry J."
+    ],
+    "actual_year": 2013,
+    "actual_journal": "journal of memory and language"
+  },
+  {
+    "key": "honnibal_2017",
+    "doi": "10.5281/zenodo.1212303",
+    "expected_year": 2017,
+    "expected_authors": [
+      "Honnibal",
+      "Montani"
+    ],
+    "expected_title": "spacy",
+    "expected_journal": "",
+    "verdict": "FAIL_RESOLVE",
+    "notes": "",
+    "crossref_url": "https://api.crossref.org/works/10.5281/zenodo.1212303",
+    "doi_url": "https://doi.org/10.5281/zenodo.1212303",
+    "scholar_url": "https://scholar.google.com/scholar?q=spacy+Honnibal"
+  },
+  {
+    "key": "lai_race_2017",
+    "doi": "10.18653/v1/D17-1082",
+    "expected_year": 2017,
+    "expected_authors": [
+      "Lai",
+      "Xie"
+    ],
+    "expected_title": "race",
+    "expected_journal": "emnlp",
+    "verdict": "FAIL_METADATA",
+    "notes": "journal mismatch (got 'proceedings of the 2017 conference on empirical methods in n')",
+    "crossref_url": "https://api.crossref.org/works/10.18653/v1/D17-1082",
+    "doi_url": "https://doi.org/10.18653/v1/D17-1082",
+    "scholar_url": "https://scholar.google.com/scholar?q=race+Lai",
+    "actual_title": "race: large-scale reading comprehension dataset from examinations",
+    "actual_authors": [
+      "Lai Guokun",
+      "Xie Qizhe",
+      "Liu Hanxiao",
+      "Yang Yiming",
+      "Hovy Eduard"
+    ],
+    "actual_year": 2017,
+    "actual_journal": "proceedings of the 2017 conference on empirical methods in natural\n          language processing"
+  },
+  {
+    "key": "vajjala_2014",
+    "doi": "10.3115/v1/W14-1804",
+    "expected_year": 2014,
+    "expected_authors": [
+      "Vajjala"
+    ],
+    "expected_title": "readability",
+    "expected_journal": "",
+    "verdict": "FAIL_METADATA",
+    "notes": "author mismatch; title mismatch",
+    "crossref_url": "https://api.crossref.org/works/10.3115/v1/W14-1804",
+    "doi_url": "https://doi.org/10.3115/v1/W14-1804",
+    "scholar_url": "https://scholar.google.com/scholar?q=readability+Vajjala",
+    "actual_title": "understanding mooc discussion forums using seeded lda",
+    "actual_authors": [
+      "Ramesh Arti",
+      "Goldwasser Dan",
+      "Huang Bert",
+      "Daume Hal",
+      "Getoor Lise"
+    ],
+    "actual_year": 2014,
+    "actual_journal": "proceedings of the ninth workshop on innovative use of nlp for building educational applications"
+  },
+  {
+    "key": "schwarm_ostendorf_2005",
+    "doi": "10.3115/1219840.1219888",
+    "expected_year": 2005,
+    "expected_authors": [
+      "Schwarm"
+    ],
+    "expected_title": "reading level",
+    "expected_journal": "",
+    "verdict": "FAIL_METADATA",
+    "notes": "author mismatch; title mismatch",
+    "crossref_url": "https://api.crossref.org/works/10.3115/1219840.1219888",
+    "doi_url": "https://doi.org/10.3115/1219840.1219888",
+    "scholar_url": "https://scholar.google.com/scholar?q=reading level+Schwarm",
+    "actual_title": "word sense disambiguation vs. statistical machine translation",
+    "actual_authors": [
+      "Carpuat Marine",
+      "Wu Dekai"
+    ],
+    "actual_year": 2005,
+    "actual_journal": "proceedings of the 43rd annual meeting on association for computational linguistics  - acl '05"
+  }
+]

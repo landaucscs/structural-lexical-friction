@@ -1,0 +1,51 @@
+base,depth,text,WC,FRE,TTR,MCD,n_sent,added_words,vocab_monotonic
+student-homework,0,The student finished the homework.,5,66.4,0.8,0.0,1,finished homework student the,True
+student-homework,1,The teacher said that the student finished the homework.,9,75.5,0.7778,1.0,1,said teacher that,True
+student-homework,2,The principal claimed that the teacher said that the student finished the homework.,13,69.994,0.6923,2.0,1,claimed principal,True
+student-homework,3,The superintendent reported that the principal claimed that the teacher said that the student finished the homework.,17,45.262,0.6471,3.0,1,reported superintendent,True
+student-homework,4,The board confirmed that the superintendent reported that the principal claimed that the teacher said that the student finished the homework.,21,48.549,0.619,4.0,1,board confirmed,True
+city-bridge,0,The city built the bridge.,5,100.24,0.8,0.0,1,bridge built city the,True
+city-bridge,1,The mayor announced that the city built the bridge.,9,84.9,0.7778,1.0,1,announced mayor that,True
+city-bridge,2,The journalist wrote that the mayor announced that the city built the bridge.,13,76.502,0.6923,2.0,1,journalist wrote,True
+city-bridge,3,The editor insisted that the journalist wrote that the mayor announced that the city built the bridge.,17,60.192,0.6471,3.0,1,editor insisted,True
+city-bridge,4,The publisher demanded that the editor insisted that the journalist wrote that the mayor announced that the city built the bridge.,21,48.549,0.619,4.0,1,demanded publisher,True
+scientist-result,0,The scientist published the result.,5,49.48,0.8,0.0,1,published result scientist the,True
+scientist-result,1,The journal confirmed that the scientist published the result.,9,56.7,0.7778,1.0,1,confirmed journal that,True
+scientist-result,2,The committee verified that the journal confirmed that the scientist published the result.,13,43.963,0.6923,2.0,1,committee verified,True
+scientist-result,3,The agency declared that the committee verified that the journal confirmed that the scientist published the result.,17,40.286,0.6471,3.0,1,agency declared,True
+scientist-result,4,The minister announced that the agency declared that the committee verified that the journal confirmed that the scientist published the result.,21,36.463,0.619,4.0,1,announced minister,True
+company-product,0,The company released the product.,5,49.48,0.8,0.0,1,company product released the,True
+company-product,1,Analysts noted that the company released the product.,8,40.09,0.875,1.0,1,analysts noted that,True
+company-product,2,The newspaper reported that analysts noted that the company released the product.,12,32.505,0.75,2.0,1,newspaper reported,True
+company-product,3,Investors heard that the newspaper reported that analysts noted that the company released the product.,15,33.69,0.7333,3.0,1,heard investors,True
+company-product,4,Regulators learned that investors heard that the newspaper reported that analysts noted that the company released the product.,18,28.765,0.7222,4.0,1,learned regulators,True
+engineer-plan,0,The engineer approved the plan.,5,66.4,0.8,0.0,1,approved engineer plan the,True
+engineer-plan,1,Management confirmed that the engineer approved the plan.,8,50.665,0.875,1.0,1,confirmed management that,True
+engineer-plan,2,Auditors verified that management confirmed that the engineer approved the plan.,11,34.161,0.8182,2.0,1,auditors verified,True
+engineer-plan,3,Headquarters acknowledged that auditors verified that management confirmed that the engineer approved the plan.,14,23.425,0.7857,3.0,1,acknowledged headquarters,True
+engineer-plan,4,Shareholders saw that headquarters acknowledged that auditors verified that management confirmed that the engineer approved the plan.,17,25.356,0.7647,4.0,1,saw shareholders,True
+writer-manuscript,0,The writer finished the manuscript.,5,49.48,0.8,0.0,1,finished manuscript the writer,True
+writer-manuscript,1,The editor reported that the writer finished the manuscript.,9,37.9,0.7778,1.0,1,editor reported that,True
+writer-manuscript,2,The agent confirmed that the editor reported that the writer finished the manuscript.,13,43.963,0.6923,2.0,1,agent confirmed,True
+writer-manuscript,3,The publisher announced that the agent confirmed that the editor reported that the writer finished the manuscript.,17,40.286,0.6471,3.0,1,announced publisher,True
+writer-manuscript,4,Reviewers acknowledged that the publisher announced that the agent confirmed that the editor reported that the writer finished the manuscript.,20,30.025,0.65,4.0,1,acknowledged reviewers,True
+team-experiment,0,The team ran the experiment.,5,66.4,0.8,0.0,1,experiment ran team the,True
+team-experiment,1,Reviewers said that the team ran the experiment.,8,61.24,0.875,1.0,1,reviewers said that,True
+team-experiment,2,Officials confirmed that reviewers said that the team ran the experiment.,11,49.543,0.8182,2.0,1,confirmed officials,True
+team-experiment,3,Sponsors recognized that officials confirmed that reviewers said that the team ran the experiment.,14,41.554,0.7857,3.0,1,recognized sponsors,True
+team-experiment,4,Critics noted that sponsors recognized that officials confirmed that reviewers said that the team ran the experiment.,17,40.286,0.7647,4.0,1,critics noted,True
+court-ruling,0,The court issued the ruling.,5,83.32,0.8,0.0,1,court issued ruling the,True
+court-ruling,1,The clerk announced that the court issued the ruling.,9,84.9,0.7778,1.0,1,announced clerk that,True
+court-ruling,2,Lawyers explained that the clerk announced that the court issued the ruling.,12,74.805,0.75,2.0,1,explained lawyers,True
+court-ruling,3,The press reported that lawyers explained that the clerk announced that the court issued the ruling.,16,68.983,0.6875,3.0,1,press reported,True
+court-ruling,4,Citizens understood that the press reported that lawyers explained that the clerk announced that the court issued the ruling.,19,53.971,0.6842,4.0,1,citizens understood,True
+artist-painting,0,The artist sold the painting.,5,83.32,0.8,0.0,1,artist painting sold the,True
+artist-painting,1,The dealer revealed that the artist sold the painting.,9,75.5,0.7778,1.0,1,dealer revealed that,True
+artist-painting,2,Collectors heard that the dealer revealed that the artist sold the painting.,12,67.755,0.75,2.0,1,collectors heard,True
+artist-painting,3,Curators noted that collectors heard that the dealer revealed that the artist sold the painting.,15,56.25,0.7333,3.0,1,curators noted,True
+artist-painting,4,Historians recorded that curators noted that collectors heard that the dealer revealed that the artist sold the painting.,18,38.165,0.7222,4.0,1,historians recorded,True
+farmer-harvest,0,The farmer collected the harvest.,5,49.48,0.8,0.0,1,collected farmer harvest the,True
+farmer-harvest,1,Neighbors observed that the farmer collected the harvest.,8,50.665,0.875,1.0,1,neighbors observed that,True
+farmer-harvest,2,Reporters noted that neighbors observed that the farmer collected the harvest.,11,41.852,0.8182,2.0,1,noted reporters,True
+farmer-harvest,3,Editors agreed that reporters noted that neighbors observed that the farmer collected the harvest.,14,35.511,0.7857,3.0,1,agreed editors,True
+farmer-harvest,4,Readers learned that editors agreed that reporters noted that neighbors observed that the farmer collected the harvest.,17,40.286,0.7647,4.0,1,learned readers,True

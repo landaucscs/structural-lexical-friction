@@ -1,0 +1,501 @@
+corpus_id,register,MCD_sm,MCD_stanza
+csat_251133,csat,2.75,3.5
+csat_250932,csat,1.2857,1.4286
+csat_230633,csat,1.8,2.0
+csat_261120,csat,1.0,1.0
+csat_241134,csat,0.875,0.75
+csat_230932,csat,0.875,1.25
+csat_230935,csat,1.2857,1.2857
+csat_231122,csat,1.3333,1.3333
+csat_260624,csat,0.8889,1.1111
+csat_250924,csat,1.25,1.125
+csat_230931,csat,0.875,0.5
+csat_251123,csat,1.1667,1.1667
+csat_241140,csat,0.7143,1.1429
+csat_230640,csat,1.3333,2.0
+csat_250921,csat,1.3333,1.6667
+csat_260635,csat,1.3333,1.3333
+csat_240622,csat,1.8571,2.1429
+csat_230923,csat,1.1429,1.1429
+csat_240924,csat,0.8,1.2
+csat_250931,csat,1.6667,1.7778
+csat_250640,csat,1.4,1.6
+csat_241132,csat,1.3333,2.1667
+csat_261140,csat,0.8571,0.8571
+csat_250632,csat,1.5714,1.375
+csat_241122,csat,2.0,2.3333
+csat_250633,csat,0.8333,1.3333
+csat_250631,csat,1.4286,1.4286
+csat_251120,csat,2.3333,2.5
+csat_260931,csat,1.2222,1.3333
+csat_241121,csat,0.9,1.0
+csat_240640,csat,1.1429,1.4286
+csat_230924,csat,1.3333,1.3333
+csat_231121,csat,1.1429,1.2857
+csat_250940,csat,1.0,1.0
+csat_260620,csat,2.0,2.375
+csat_230933,csat,0.6667,1.1667
+csat_231135,csat,1.3333,1.6667
+csat_260922,csat,1.125,1.125
+csat_231133,csat,1.0,1.4286
+csat_250624,csat,1.0,1.2857
+csat_241123,csat,1.1667,1.1667
+csat_231124,csat,2.0,2.0
+csat_230620,csat,2.0,2.0
+csat_260640,csat,0.8571,1.0
+csat_230921,csat,1.2,1.3636
+csat_251122,csat,1.3333,1.1667
+csat_260623,csat,1.5,1.7
+csat_240934,csat,0.75,1.25
+csat_260634,csat,1.5,1.125
+csat_230624,csat,1.1429,1.4286
+arxiv_2605.17450v1,arxiv_abstract,1.0833,0.9167
+arxiv_2605.19427v1,arxiv_abstract,1.2,1.5
+arxiv_2605.16991v1,arxiv_abstract,1.2857,1.2857
+arxiv_2605.20004v1,arxiv_abstract,0.3333,0.3333
+arxiv_2605.19379v1,arxiv_abstract,0.875,1.125
+arxiv_2605.11389v1,arxiv_abstract,1.0,1.1429
+arxiv_2605.18571v1,arxiv_abstract,1.5,1.5
+arxiv_2605.19718v1,arxiv_abstract,0.8,1.0
+arxiv_2605.20052v1,arxiv_abstract,1.25,1.125
+arxiv_2605.19837v1,arxiv_abstract,1.25,0.5556
+arxiv_2605.20128v1,arxiv_abstract,1.5,1.6667
+arxiv_2605.16996v1,arxiv_abstract,1.375,1.375
+arxiv_2605.19983v1,arxiv_abstract,2.0,1.3333
+arxiv_2605.09810v1,arxiv_abstract,0.8333,0.8333
+arxiv_2605.17113v1,arxiv_abstract,1.2222,1.4444
+arxiv_2605.14485v1,arxiv_abstract,1.25,1.375
+arxiv_2605.20127v1,arxiv_abstract,1.3,1.7
+arxiv_2605.16753v1,arxiv_abstract,1.125,1.625
+arxiv_2605.16650v1,arxiv_abstract,1.125,1.625
+arxiv_2605.16758v1,arxiv_abstract,2.0,2.0
+arxiv_2605.16064v1,arxiv_abstract,1.2857,1.1429
+arxiv_2605.09029v1,arxiv_abstract,1.6667,1.3333
+arxiv_2605.13362v2,arxiv_abstract,0.8,1.0
+arxiv_2605.11028v1,arxiv_abstract,0.6,0.875
+arxiv_2605.15990v1,arxiv_abstract,1.0,1.2
+arxiv_2605.16862v1,arxiv_abstract,1.4444,1.3333
+arxiv_2605.10310v2,arxiv_abstract,0.8571,0.8571
+arxiv_2605.19187v1,arxiv_abstract,0.7778,0.7778
+arxiv_2605.18462v1,arxiv_abstract,0.6667,0.6667
+arxiv_2605.20028v1,arxiv_abstract,1.5,2.0
+arxiv_2605.17723v1,arxiv_abstract,1.0909,1.2727
+arxiv_2605.19860v1,arxiv_abstract,0.0,0.2857
+arxiv_2605.12662v1,arxiv_abstract,0.6429,0.6429
+arxiv_2605.17187v1,arxiv_abstract,1.1111,1.1111
+arxiv_2605.18583v1,arxiv_abstract,0.9091,0.6364
+arxiv_2605.20161v1,arxiv_abstract,0.75,1.0
+arxiv_2605.16693v1,arxiv_abstract,1.1667,1.1667
+arxiv_2605.20178v1,arxiv_abstract,0.75,0.75
+arxiv_2605.11718v1,arxiv_abstract,1.0,1.1429
+arxiv_2605.18181v1,arxiv_abstract,1.875,1.625
+arxiv_2605.19766v1,arxiv_abstract,0.9,1.0
+arxiv_2605.15839v1,arxiv_abstract,1.7143,1.2857
+arxiv_2605.08551v1,arxiv_abstract,0.75,0.75
+arxiv_2605.19757v1,arxiv_abstract,0.5,0.5
+arxiv_2605.13897v1,arxiv_abstract,0.875,1.0
+arxiv_2605.18925v1,arxiv_abstract,0.75,0.5
+arxiv_2605.17391v1,arxiv_abstract,2.6,2.6
+arxiv_2605.19894v1,arxiv_abstract,1.2857,0.75
+arxiv_2605.16695v1,arxiv_abstract,1.75,2.0
+arxiv_2605.18542v1,arxiv_abstract,1.0,1.2
+cl_v2_10234004_c1,judicial_opinion,1.8333,1.9167
+cl_v2_4588170_c0,judicial_opinion,0.5714,0.64
+cl_v2_4587784_c0,judicial_opinion,0.7037,0.6667
+cl_v2_2822315_c0,judicial_opinion,1.7857,2.2308
+cl_v2_10257716_c0,judicial_opinion,0.5556,0.9474
+cl_v2_10106087_c1,judicial_opinion,0.95,1.3158
+cl_v2_10257933_c0,judicial_opinion,1.2105,1.3529
+cl_v2_10313632_c2,judicial_opinion,1.1875,1.8667
+cl_v2_4588032_c0,judicial_opinion,0.4,1.1739
+cl_v2_10187012_c2,judicial_opinion,0.84,0.8889
+cl_v2_10310526_c2,judicial_opinion,0.5,0.75
+cl_v2_10257617_c2,judicial_opinion,0.8,2.0909
+cl_v2_10211195_c0,judicial_opinion,1.2,1.3333
+cl_v2_4587806_c2,judicial_opinion,1.7,1.9
+cl_v2_10234013_c2,judicial_opinion,1.1364,1.1905
+cl_v2_10258004_c2,judicial_opinion,1.5263,1.6667
+cl_v2_10187156_c2,judicial_opinion,0.7812,1.4444
+cl_v2_4587908_c2,judicial_opinion,1.0,1.1765
+cl_v2_10211225_c2,judicial_opinion,2.0833,2.6364
+cl_v2_10312523_c1,judicial_opinion,1.25,1.6
+cl_v2_10257998_c1,judicial_opinion,0.8667,1.1538
+cl_v2_10310557_c1,judicial_opinion,1.0833,1.5789
+cl_v2_10211205_c0,judicial_opinion,0.6471,1.0714
+cl_v2_4587461_c0,judicial_opinion,0.8095,1.1579
+cl_v2_4588141_c1,judicial_opinion,1.5455,1.9524
+cl_v2_10187121_c0,judicial_opinion,1.0,1.4545
+cl_v2_10258706_c2,judicial_opinion,1.1,1.0
+cl_v2_2824086_c2,judicial_opinion,1.0909,1.3
+cl_v2_10312569_c0,judicial_opinion,1.4,3.5
+cl_v2_10106139_c1,judicial_opinion,1.2632,1.3889
+cl_v2_10254591_c0,judicial_opinion,1.0,0.8824
+cl_v2_10122527_c0,judicial_opinion,1.5,1.5
+cl_v2_10312542_c1,judicial_opinion,1.1818,1.3684
+cl_v2_10211137_c1,judicial_opinion,1.5333,2.0769
+cl_v2_10254631_c0,judicial_opinion,0.9375,1.0
+cl_v2_10313611_c0,judicial_opinion,0.4091,0.5556
+cl_v2_4587272_c0,judicial_opinion,0.9259,0.963
+cl_v2_10094445_c0,judicial_opinion,0.9412,1.3125
+cl_v2_2828681_c1,judicial_opinion,1.3333,1.85
+cl_v2_10094472_c0,judicial_opinion,0.88,1.2105
+cl_v2_10310527_c0,judicial_opinion,0.8846,1.5714
+cl_v2_10094524_c2,judicial_opinion,1.2105,1.5
+cl_v2_2823041_c0,judicial_opinion,1.0588,1.2941
+cl_v2_10109144_c2,judicial_opinion,1.3182,1.5
+cl_v2_10257729_c0,judicial_opinion,0.9545,2.25
+cl_v2_10625415_c0,judicial_opinion,0.95,1.0556
+cl_v2_10246222_c1,judicial_opinion,0.931,1.3684
+cl_v2_10109127_c2,judicial_opinion,1.4737,1.7059
+cl_v2_10187135_c0,judicial_opinion,1.5,2.0
+cl_v2_10258416_c1,judicial_opinion,1.5455,1.3636
+logiqa_6870,logiqa,1.5,1.5
+logiqa_1288,logiqa,1.5,1.5
+logiqa_4080,logiqa,1.6667,0.6667
+logiqa_6151,logiqa,3.0,1.75
+logiqa_7779,logiqa,1.6,1.4
+logiqa_6872,logiqa,1.25,1.25
+logiqa_1895,logiqa,1.3333,0.6667
+logiqa_2767,logiqa,1.0,0.3333
+logiqa_8344,logiqa,1.0,1.0
+logiqa_7981,logiqa,2.3333,2.6667
+logiqa_7006,logiqa,1.5,0.6667
+logiqa_2937,logiqa,1.0,0.75
+logiqa_8495,logiqa,1.5,2.0
+logiqa_6066,logiqa,1.0,1.0
+logiqa_3710,logiqa,2.0,0.6667
+logiqa_2593,logiqa,1.5,1.75
+logiqa_6360,logiqa,1.0,1.0
+logiqa_7309,logiqa,1.75,1.75
+logiqa_7090,logiqa,1.0,1.4
+logiqa_6716,logiqa,0.5,0.5
+logiqa_5562,logiqa,1.3333,1.0
+logiqa_836,logiqa,0.4,0.4
+logiqa_5863,logiqa,2.6667,2.0
+logiqa_6514,logiqa,1.0,1.0
+logiqa_4073,logiqa,0.25,0.25
+logiqa_965,logiqa,1.6667,2.0
+logiqa_6832,logiqa,1.0,0.4286
+logiqa_2162,logiqa,1.0,1.0
+logiqa_6883,logiqa,0.1429,0.1429
+logiqa_6890,logiqa,1.25,0.75
+logiqa_6545,logiqa,0.25,0.0
+logiqa_4660,logiqa,0.5,0.5
+logiqa_3910,logiqa,2.0,1.0
+logiqa_357,logiqa,0.6667,0.5
+logiqa_6248,logiqa,1.4,1.2
+logiqa_3724,logiqa,0.125,0.25
+logiqa_635,logiqa,0.75,1.5
+logiqa_981,logiqa,1.0,0.5
+logiqa_7364,logiqa,1.1667,1.3333
+logiqa_1000,logiqa,2.5,2.5
+logiqa_4719,logiqa,1.6667,1.6667
+logiqa_1195,logiqa,0.6667,0.6667
+logiqa_8026,logiqa,2.3333,2.0
+logiqa_1365,logiqa,1.0,0.2
+logiqa_7464,logiqa,1.5,1.0
+logiqa_774,logiqa,5.0,3.0
+logiqa_5902,logiqa,0.8889,0.6667
+logiqa_7909,logiqa,0.3333,0.3333
+logiqa_3390,logiqa,2.0,1.5
+logiqa_424,logiqa,0.2,0.2
+brown_cf35_214,brown_news_general,0.75,0.875
+brown_cj06_322,brown_news_general,0.6667,0.8333
+brown_cf44_264,brown_news_general,1.25,0.5
+brown_cf33_208,brown_news_general,1.6154,1.6923
+brown_ca36_21,brown_news_general,3.3333,3.6667
+brown_cj13_359,brown_news_general,1.0,1.2857
+brown_cj14_369,brown_news_general,1.0,0.875
+brown_cf48_279,brown_news_general,1.3333,1.5556
+brown_cb20_55,brown_news_general,1.4286,1.125
+brown_cj07_327,brown_news_general,0.8667,1.0714
+brown_cf44_268,brown_news_general,1.25,1.125
+brown_cc09_83,brown_news_general,0.8333,1.0
+brown_cf19_139,brown_news_general,0.3333,1.0
+brown_cf43_257,brown_news_general,0.8,1.0
+brown_cf03_109,brown_news_general,1.5,1.5
+brown_cc16_89,brown_news_general,1.0,1.1429
+brown_cf44_265,brown_news_general,1.4286,1.125
+brown_cb26_79,brown_news_general,0.5714,0.8571
+brown_cj12_355,brown_news_general,0.8571,1.1429
+brown_ca16_7,brown_news_general,0.3636,0.3333
+brown_cf33_210,brown_news_general,1.2667,1.3333
+brown_ca13_3,brown_news_general,0.3,0.4
+brown_cc16_90,brown_news_general,1.75,1.625
+brown_cj10_339,brown_news_general,1.5,1.6
+brown_cf12_116,brown_news_general,1.75,1.625
+brown_cf26_169,brown_news_general,1.3846,1.0769
+brown_cj06_321,brown_news_general,0.6667,1.3333
+brown_cb24_68,brown_news_general,0.75,0.875
+brown_cf35_212,brown_news_general,1.2857,1.2857
+brown_cf42_251,brown_news_general,1.4286,1.2143
+brown_cf38_230,brown_news_general,1.8333,1.7143
+brown_cj02_292,brown_news_general,0.7143,0.6667
+brown_cf14_120,brown_news_general,1.2,1.8
+brown_cf17_135,brown_news_general,1.3333,1.6667
+brown_cf28_188,brown_news_general,1.5,1.75
+brown_cf39_236,brown_news_general,1.5,1.75
+brown_cf37_220,brown_news_general,1.1667,1.5
+brown_cb23_61,brown_news_general,1.5714,1.2857
+brown_ca28_12,brown_news_general,0.8333,1.0
+brown_cj15_374,brown_news_general,0.375,0.5
+brown_cf20_147,brown_news_general,1.25,1.625
+brown_cc15_88,brown_news_general,0.2857,0.5
+brown_cf19_145,brown_news_general,1.0909,1.2727
+brown_cf45_271,brown_news_general,1.2857,1.2857
+brown_cb26_80,brown_news_general,1.75,1.75
+brown_cf43_255,brown_news_general,0.8889,0.6667
+brown_cj16_381,brown_news_general,1.0,1.4
+brown_cb21_58,brown_news_general,1.5,1.0833
+brown_cj16_378,brown_news_general,1.0833,1.1538
+brown_cj17_392,brown_news_general,1.1667,1.0
+gutenberg_79381_10977,gutenberg_fiction,1.1667,1.1667
+gutenberg_79381_10963,gutenberg_fiction,1.3333,2.6667
+gutenberg_85706_1675,gutenberg_fiction,2.0,1.6
+gutenberg_64981_20051,gutenberg_fiction,1.5714,1.2857
+gutenberg_33891_20232,gutenberg_fiction,1.1,1.1
+gutenberg_92455_1040,gutenberg_fiction,1.5,1.75
+gutenberg_33891_20635,gutenberg_fiction,2.4,2.4
+gutenberg_92455_649,gutenberg_fiction,1.3333,1.3333
+gutenberg_92455_812,gutenberg_fiction,0.8889,0.7778
+gutenberg_85706_143,gutenberg_fiction,1.6667,1.8333
+gutenberg_22279_20618,gutenberg_fiction,1.0,1.5
+gutenberg_33891_20482,gutenberg_fiction,0.8667,0.8667
+gutenberg_64981_20092,gutenberg_fiction,1.3,1.0
+gutenberg_97280_20029,gutenberg_fiction,1.0,1.2857
+gutenberg_3797_20113,gutenberg_fiction,1.1667,1.3333
+gutenberg_79381_11266,gutenberg_fiction,1.5,1.5
+gutenberg_59126_20162,gutenberg_fiction,0.8571,0.8571
+gutenberg_59126_20314,gutenberg_fiction,3.8,3.8
+gutenberg_33891_20801,gutenberg_fiction,0.5833,0.5833
+gutenberg_59126_20318,gutenberg_fiction,3.3333,3.6667
+gutenberg_60678_10520,gutenberg_fiction,0.5,0.625
+gutenberg_60678_10090,gutenberg_fiction,0.8,1.0
+gutenberg_60678_10010,gutenberg_fiction,1.7692,1.9231
+gutenberg_55221_20224,gutenberg_fiction,1.0,1.2222
+gutenberg_55221_20801,gutenberg_fiction,4.0,6.0
+gutenberg_79749_20241,gutenberg_fiction,1.0,1.0
+gutenberg_33891_20648,gutenberg_fiction,1.3684,1.1875
+gutenberg_33891_20192,gutenberg_fiction,1.4286,1.3333
+gutenberg_22279_20987,gutenberg_fiction,1.2,1.0
+gutenberg_17071_20033,gutenberg_fiction,2.0909,1.8333
+gutenberg_79381_10251,gutenberg_fiction,2.6667,3.3333
+gutenberg_97280_20065,gutenberg_fiction,1.25,1.125
+gutenberg_79381_11119,gutenberg_fiction,1.2143,1.0714
+gutenberg_33891_20197,gutenberg_fiction,2.0,2.1667
+gutenberg_33891_20849,gutenberg_fiction,1.3333,1.2
+gutenberg_97280_20622,gutenberg_fiction,1.375,1.5
+gutenberg_85706_40,gutenberg_fiction,1.6667,1.6667
+gutenberg_75467_20081,gutenberg_fiction,2.5,3.0
+gutenberg_17071_20063,gutenberg_fiction,1.25,1.0
+gutenberg_97280_20316,gutenberg_fiction,2.6,2.4
+gutenberg_60678_10142,gutenberg_fiction,1.8,1.4
+gutenberg_64981_20064,gutenberg_fiction,1.9091,2.0
+gutenberg_97280_20742,gutenberg_fiction,1.0,0.75
+gutenberg_92455_1288,gutenberg_fiction,1.5,1.5
+gutenberg_60678_10329,gutenberg_fiction,2.1667,1.8333
+gutenberg_85706_498,gutenberg_fiction,1.75,1.875
+gutenberg_22279_20447,gutenberg_fiction,0.8571,0.8571
+gutenberg_59126_20225,gutenberg_fiction,3.0,2.25
+gutenberg_92455_201,gutenberg_fiction,1.25,1.5
+gutenberg_55221_20810,gutenberg_fiction,3.6667,3.6667
+wikitext_651353_923,wikitext_modern_encyclopedic,1.3333,2.0
+wikitext_803684_1394,wikitext_modern_encyclopedic,1.5556,1.625
+wikitext_884806_1920,wikitext_modern_encyclopedic,0.5714,0.6
+wikitext_943314_1865,wikitext_modern_encyclopedic,0.6667,0.9167
+wikitext_281248_1690,wikitext_modern_encyclopedic,0.8,0.8
+wikitext_803503_1676,wikitext_modern_encyclopedic,1.0909,1.1818
+wikitext_885201_220,wikitext_modern_encyclopedic,1.8,1.8
+wikitext_649405_1326,wikitext_modern_encyclopedic,1.2222,1.5
+wikitext_642139_935,wikitext_modern_encyclopedic,1.7143,2.0
+wikitext_96852_1297,wikitext_modern_encyclopedic,0.5,0.6
+wikitext_543517_1747,wikitext_modern_encyclopedic,0.6429,0.8333
+wikitext_334008_1361,wikitext_modern_encyclopedic,1.0,0.8889
+wikitext_180943_256,wikitext_modern_encyclopedic,0.3333,0.5833
+wikitext_292061_1914,wikitext_modern_encyclopedic,0.8889,1.1429
+wikitext_607645_591,wikitext_modern_encyclopedic,1.875,2.25
+wikitext_447867_1742,wikitext_modern_encyclopedic,1.25,1.6
+wikitext_681320_1475,wikitext_modern_encyclopedic,0.875,1.25
+wikitext_664421_718,wikitext_modern_encyclopedic,0.5,0.625
+wikitext_757003_1506,wikitext_modern_encyclopedic,0.2308,0.3077
+wikitext_408780_684,wikitext_modern_encyclopedic,3.4,3.4
+wikitext_32843_1885,wikitext_modern_encyclopedic,1.2857,1.7143
+wikitext_396964_641,wikitext_modern_encyclopedic,0.7143,0.8571
+wikitext_832249_1923,wikitext_modern_encyclopedic,0.875,0.8571
+wikitext_402169_1093,wikitext_modern_encyclopedic,1.25,1.0
+wikitext_968034_90,wikitext_modern_encyclopedic,0.4,1.0
+wikitext_334008_1147,wikitext_modern_encyclopedic,0.625,0.75
+wikitext_346988_1000,wikitext_modern_encyclopedic,1.6,1.2
+wikitext_817533_74,wikitext_modern_encyclopedic,0.6667,0.8571
+wikitext_421326_1043,wikitext_modern_encyclopedic,1.3333,1.375
+wikitext_66065_245,wikitext_modern_encyclopedic,0.2857,0.5714
+wikitext_647414_920,wikitext_modern_encyclopedic,0.25,0.2
+wikitext_287195_583,wikitext_modern_encyclopedic,1.4,1.8
+wikitext_148412_921,wikitext_modern_encyclopedic,0.75,0.875
+wikitext_727249_1286,wikitext_modern_encyclopedic,1.4167,2.3333
+wikitext_781018_961,wikitext_modern_encyclopedic,0.7778,1.2222
+wikitext_172226_1384,wikitext_modern_encyclopedic,0.75,1.0
+wikitext_768267_553,wikitext_modern_encyclopedic,1.3333,1.0
+wikitext_230755_1342,wikitext_modern_encyclopedic,0.2857,0.1429
+wikitext_448071_374,wikitext_modern_encyclopedic,0.75,0.7143
+wikitext_207106_217,wikitext_modern_encyclopedic,1.25,1.125
+wikitext_448111_412,wikitext_modern_encyclopedic,1.3333,1.1667
+wikitext_414721_1257,wikitext_modern_encyclopedic,1.0,0.75
+wikitext_808998_998,wikitext_modern_encyclopedic,0.5714,0.6667
+wikitext_686681_781,wikitext_modern_encyclopedic,1.5556,1.6667
+wikitext_334008_1200,wikitext_modern_encyclopedic,0.8333,0.9167
+wikitext_699424_793,wikitext_modern_encyclopedic,1.1429,1.0
+wikitext_789955_1033,wikitext_modern_encyclopedic,0.5,0.6667
+wikitext_241734_24,wikitext_modern_encyclopedic,0.5,0.6667
+wikitext_637263_1174,wikitext_modern_encyclopedic,0.5714,0.7143
+wikitext_658834_1837,wikitext_modern_encyclopedic,0.5,1.0
+reuters_test_18356,reuters_newswire,1.3333,1.5
+reuters_test_18781,reuters_newswire,1.7857,1.4286
+reuters_training_10867,reuters_newswire,1.0,0.7143
+reuters_training_11243,reuters_newswire,1.5,1.4167
+reuters_training_10302,reuters_newswire,1.2857,1.4286
+reuters_test_17054,reuters_newswire,1.2308,1.4615
+reuters_training_13053_cfinal,reuters_newswire,1.7857,1.6429
+reuters_training_12829,reuters_newswire,0.4286,0.4286
+reuters_test_15194_cfinal,reuters_newswire,1.2222,1.2222
+reuters_training_10701,reuters_newswire,1.7143,1.7143
+reuters_test_18520,reuters_newswire,1.1667,0.8333
+reuters_test_16765,reuters_newswire,1.6,2.0
+reuters_test_19867,reuters_newswire,1.6,1.9
+reuters_training_12254,reuters_newswire,1.4,0.8
+reuters_test_20005_c14,reuters_newswire,1.4118,1.3889
+reuters_test_20363,reuters_newswire,0.125,0.0
+reuters_training_11236,reuters_newswire,1.6667,1.8889
+reuters_training_1269,reuters_newswire,1.0952,1.0435
+reuters_test_18213,reuters_newswire,0.9,1.0
+reuters_training_10676,reuters_newswire,2.4667,2.7857
+reuters_training_10931_c14,reuters_newswire,1.4444,1.6111
+reuters_test_20048_c13,reuters_newswire,2.4286,2.5
+reuters_test_21131_c29,reuters_newswire,1.2222,1.4737
+reuters_test_20757,reuters_newswire,1.125,1.25
+reuters_test_15602,reuters_newswire,2.0,1.8
+reuters_training_12463,reuters_newswire,0.6667,1.0
+reuters_training_12052,reuters_newswire,1.5714,1.8333
+reuters_test_17896_c13,reuters_newswire,1.7895,2.0526
+reuters_training_11232,reuters_newswire,1.0909,1.0
+reuters_training_10275,reuters_newswire,1.8333,1.7143
+reuters_test_19428,reuters_newswire,1.5714,1.5
+reuters_test_18325,reuters_newswire,1.6667,1.2857
+reuters_training_1159,reuters_newswire,1.6667,1.2857
+reuters_test_16787,reuters_newswire,1.5,1.5455
+reuters_training_11418,reuters_newswire,1.0,0.75
+reuters_test_17714,reuters_newswire,1.0714,1.1429
+reuters_test_17980_cfinal,reuters_newswire,2.0,1.8571
+reuters_training_12195_cfinal,reuters_newswire,1.7692,1.6154
+reuters_training_13023,reuters_newswire,1.875,2.0
+reuters_training_13003,reuters_newswire,1.4286,1.7143
+reuters_training_10291_c13,reuters_newswire,1.5,1.6
+reuters_training_1292,reuters_newswire,1.0909,1.2727
+reuters_training_11885,reuters_newswire,0.5385,0.4615
+reuters_test_21486_c15,reuters_newswire,1.7059,1.7059
+reuters_test_18665,reuters_newswire,0.75,1.125
+reuters_test_19998,reuters_newswire,1.3333,1.5
+reuters_training_12887_c17,reuters_newswire,1.5882,1.4706
+reuters_test_16075,reuters_newswire,2.0,1.6875
+reuters_training_1110,reuters_newswire,2.3,2.2727
+reuters_training_10593_cfinal,reuters_newswire,1.625,2.0
+onestop_ELE_WNL Shakespeare-ele_rc1,onestop_ele,0.6875,0.8125
+onestop_ELE_WNL Bangladeshi organization-ele_c0,onestop_ele,1.1154,1.0385
+onestop_ELE_WNL I confused my numbers-ele_rc0,onestop_ele,0.7895,0.7895
+onestop_ELE_WNL Ways Facebook changed-ele_rc0,onestop_ele,1.1905,1.3
+onestop_ELE_Japan menu-ele_rc0,onestop_ele,1.5263,1.4211
+onestop_ELE_WNL Cuba-ele_rc0,onestop_ele,0.9565,0.8696
+onestop_ELE_Billionaires-ele_c0,onestop_ele,1.5556,1.7222
+onestop_ELE_WNL Neuroscientists-ele_rc1,onestop_ele,0.5,0.5
+onestop_ELE_WNL Revolution-ele_rc0,onestop_ele,1.2414,1.1667
+onestop_ELE_WNL Black Friday-ele_rc0,onestop_ele,1.0345,1.0714
+onestop_ELE_WNL What is world's-ele_rc0,onestop_ele,0.7308,0.7308
+onestop_ELE_WNL SeaWorld-ele_c0,onestop_ele,1.5,1.5909
+onestop_ELE_WNL Man falls-ele_rc0,onestop_ele,1.7647,1.7647
+onestop_ELE_Liberia-ele_rc0,onestop_ele,1.0,1.0526
+onestop_ELE_WNL Coloring Books-ele_rc0,onestop_ele,1.1364,1.0455
+onestop_ELE_Bolivia-ele_rc0,onestop_ele,1.4211,1.4211
+onestop_ELE_WNL FIFA-ele_rc0,onestop_ele,0.95,0.9
+onestop_ELE_WNL Spain Robin Hood-ele_c0,onestop_ele,0.8889,1.0
+onestop_ELE_Superbugs-ele_rc0,onestop_ele,0.6897,0.7931
+onestop_ELE_WNL Satnav-ele_rc0,onestop_ele,1.4783,1.4348
+onestop_ELE_WNL Shops-ele_rc1,onestop_ele,1.2857,1.7692
+onestop_ELE_Malala-ele_rc0,onestop_ele,1.0,1.0
+onestop_ELE_Rats-ele_rc1,onestop_ele,1.5882,1.7647
+onestop_ELE_WNL Canadian Pair-ele_rc0,onestop_ele,0.8621,0.8276
+onestop_ELE_WNL Noise pollution -ele_rc0,onestop_ele,1.3333,1.381
+onestop_ELE_Bolivia-ele_rc1,onestop_ele,1.5,1.5833
+onestop_ELE_WNL Mars-ele_c0,onestop_ele,1.4545,1.5
+onestop_ELE_WNL Four new elements-ele_rc1,onestop_ele,0.9,0.9
+onestop_ELE_WNL School Sports-ele_rc0,onestop_ele,1.5882,1.4706
+onestop_ELE_WNL Bright Future-ele_rc1,onestop_ele,1.1053,1.1579
+onestop_ELE_WNL Japan-ele_rc0,onestop_ele,0.8,0.88
+onestop_ELE_Pope-ele_rc1,onestop_ele,1.1875,1.2857
+onestop_ELE_WNL New Orleans-ele_rc0,onestop_ele,1.0,1.08
+onestop_ELE_WNL Five jobs-ele_rc0,onestop_ele,1.129,1.0909
+onestop_ELE_Anita-ele_rc0,onestop_ele,0.85,1.0
+onestop_ELE_Amsterdam-ele_rc0,onestop_ele,1.6316,1.7368
+onestop_ELE_Norwegian sun-ele_rc0,onestop_ele,0.5926,0.6667
+onestop_ELE_Banksy-ele_rc0,onestop_ele,1.3889,1.5556
+onestop_ELE_WNL We must-ele_rc1,onestop_ele,1.1538,1.0769
+onestop_ELE_WNL Kiruna-ele_rc1,onestop_ele,1.0769,1.0769
+onestop_ELE_WNL Music-ele_c0,onestop_ele,0.6471,0.7647
+onestop_ELE_WNL Novel way-ele_rc0,onestop_ele,0.9167,1.0417
+onestop_ELE_Brazil-ele_rc0,onestop_ele,0.7273,0.7273
+onestop_ELE_WNL Bogus Allergy-ele_rc0,onestop_ele,1.9375,1.6875
+onestop_ELE_Crowdfunding-ele_rc0,onestop_ele,1.1818,1.0
+onestop_ELE_WNL Mystery Shopper-ele_rc1,onestop_ele,0.9375,0.9375
+onestop_ELE_Food shortages-ele_rc0,onestop_ele,1.3889,1.3333
+onestop_ELE_WNL 101 year old bottle message-ele_rc1,onestop_ele,1.2727,1.0
+onestop_ELE_WNL Scottish referendum-ele_rc1,onestop_ele,1.0769,1.1538
+onestop_ELE_WNL Ships noise-ele_rc0,onestop_ele,1.3182,1.2727
+onestop_INT_Prince Harry-int_rc1,onestop_int,1.2667,1.2667
+onestop_INT_Insects-int_rc0,onestop_int,1.2,1.2
+onestop_INT_WNL Apple-int_rc0,onestop_int,0.7895,0.85
+onestop_INT_WNL Shakespeare-int_rc1,onestop_int,0.8235,1.0
+onestop_INT_Swedish prisons-int_rc0,onestop_int,1.1579,1.1579
+onestop_INT_WNL Six year olds-int_rc0,onestop_int,1.4286,1.5333
+onestop_INT_WNL Satnav-int_rc1,onestop_int,1.7,2.0
+onestop_INT_WNL David Mitchell-int_rc1,onestop_int,1.4545,1.5
+onestop_INT_WNL David Bowie-int_rc1,onestop_int,0.7778,0.6667
+onestop_INT_WNL Waiters-int_rc0,onestop_int,1.2174,1.3478
+onestop_INT_WNL Scottish referendum-int_rc0,onestop_int,1.2353,1.2778
+onestop_INT_Bolivia-int_rc0,onestop_int,1.4706,1.1579
+onestop_INT_WNL Novel way-int_rc1,onestop_int,1.0,1.037
+onestop_INT_WNL What's the secret-int_rc0,onestop_int,1.037,1.0714
+onestop_INT_WNL Criminal Links-int_rc0,onestop_int,0.9545,1.087
+onestop_INT_WNL Castaway-int_rc0,onestop_int,1.75,1.5882
+onestop_INT_WNL Bangladeshi organization-int_rc1,onestop_int,1.8571,1.8571
+onestop_INT_WNL Arctic Ramadan-int_rc1,onestop_int,0.75,0.8261
+onestop_INT_Brazil-int_rc0,onestop_int,0.8182,0.8095
+onestop_INT_WNL The lightweight-int_rc1,onestop_int,1.6,1.4
+onestop_INT_WNL The last-int_rc0,onestop_int,0.7308,0.7778
+onestop_INT_WNL On the trail-int_rc1,onestop_int,0.7241,0.7931
+onestop_INT_WNL Loneliness-int_rc0,onestop_int,1.4444,1.5
+onestop_INT_WNL Scientist-int_rc0,onestop_int,1.1176,1.4706
+onestop_INT_WNL Winter-int_rc0,onestop_int,1.0526,1.0
+onestop_INT_Swedish prisons-int_rc1,onestop_int,1.1667,1.1667
+onestop_INT_WNL What's the secret-int_rc1,onestop_int,1.2,1.2667
+onestop_INT_WNL John Lewis-int_rc1,onestop_int,1.6364,1.9
+onestop_INT_WNL Black Friday-int_rc1,onestop_int,0.7059,0.8235
+onestop_INT_Copyright-int_rc0,onestop_int,2.0,1.7368
+onestop_INT_WNL Kate Bush-int_rc0,onestop_int,1.3182,1.3043
+onestop_INT_WNL Mars-int_rc0,onestop_int,1.75,1.4348
+onestop_INT_Life on Mars-int_rc1,onestop_int,1.6364,1.5
+onestop_INT_WNL In flight-int_rc0,onestop_int,0.8571,0.8261
+onestop_INT_Meteorite-int_rc0,onestop_int,0.8636,0.8182
+onestop_INT_WNL NASA Astronaut-int_rc0,onestop_int,1.5294,1.8235
+onestop_INT_Obama-int_rc1,onestop_int,1.2941,1.1176
+onestop_INT_Ferguson-int_rc1,onestop_int,1.2381,1.5
+onestop_INT_WNL Barack Obama-int_rc0,onestop_int,2.0556,1.6667
+onestop_INT_Facebook deserted by millions of users-int_rc1,onestop_int,1.2222,1.1111
+onestop_INT_NSA 2-int_rc0,onestop_int,1.6471,1.4444
+onestop_INT_WNL Young Americans-int_rc0,onestop_int,1.0526,1.0
+onestop_INT_WNL Brown bears-int_rc0,onestop_int,0.9,1.0
+onestop_INT_Organs-int_rc1,onestop_int,1.25,1.3333
+onestop_INT_Teff-int_rc1,onestop_int,0.9412,0.8235
+onestop_INT_Kashmir-int_rc1,onestop_int,1.0,0.88
+onestop_INT_WNL Four new elements-int_rc0,onestop_int,1.2353,1.4375
+onestop_INT_Anita-int_rc1,onestop_int,1.125,1.1875
+onestop_INT_WNL Pacific Islanders-int_rc1,onestop_int,1.2174,1.2609
+onestop_INT_WNL Why are people so wrong-int_rc1,onestop_int,1.6154,1.6154

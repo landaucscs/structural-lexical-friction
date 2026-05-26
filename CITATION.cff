@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the manuscript and the released code/data archive."
+title: "Structural-Lexical Friction: A Cross-Register Computational Study of Text Difficulty"
+authors:
+  - family-names: "[Author]"
+    given-names: "[Author]"
+abstract: >
+  Working paper introducing the construct of *structural-lexical friction*,
+  operationalised through seventeen per-passage indices computed across a
+  16,904-passage cross-register corpus that pairs four high-density
+  informational registers (Korean CSAT, LogiQA, arXiv abstracts, U.S.
+  federal judicial opinions) against five general informational registers
+  (Brown, Project Gutenberg, WikiText-103, Reuters, OneStopEnglish).  A
+  multi-block classification ablation, a word-count-matched adversarial
+  transformation, and a three-parser robustness check together support a
+  multi-dimensional view of text difficulty in which the Flesch formula's
+  W/S term mechanically absorbs clausal embedding and parser-aware
+  syntactic indices recover the structural signal once length is removed
+  or held constant.
+version: "1.0.0"
+date-released: 2026-05-26
+license: MIT
+license-url: https://github.com/landaucscs/structural-lexical-friction/blob/main/LICENSE
+repository-code: "https://github.com/landaucscs/structural-lexical-friction"
+keywords:
+  - computational linguistics
+  - readability
+  - syntactic complexity
+  - Flesch Reading Ease
+  - mean clausal depth
+  - dependency parsing
+  - cross-register
+  - cognitive load
+  - text difficulty

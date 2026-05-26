@@ -1,0 +1,22 @@
+# Core data + ML
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.4
+scipy>=1.11
+matplotlib>=3.7
+
+# NLP / parsers
+spacy==3.8.14
+# After install: python -m spacy download en_core_web_sm
+# Optional (parser-robustness anchor): python -m spacy download en_core_web_trf
+stanza>=1.7
+textstat>=0.7
+nltk>=3.8
+
+# Corpus fetchers
+requests>=2.31
+datasets>=2.18                  # HuggingFace WikiText-103
+
+# PDF rendering (manuscript build)
+markdown>=3.5
+playwright>=1.40                # use: python -m playwright install chromium
