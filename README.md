@@ -248,7 +248,7 @@ If you build on this paper, please cite (BibTeX placeholder until SSRN-assigned 
 
 ```bibtex
 @misc{structural-lexical-friction-2026,
-  author       = {[Author]},
+  author       = {Jaeho Kim},
   title        = {{Structural-Lexical Friction: A Cross-Register Computational Study of Text Difficulty}},
   year         = 2026,
   howpublished = {Working paper, SSRN},
@@ -272,7 +272,7 @@ python verify_dois_v2.py
 
 ## Generative AI disclosure
 
-The author used Claude Code as a coding and prose-formatting assistant for fetcher scripts, analysis pipelines, and manuscript markup. All conceptual claims, analytical interpretations, and the design of each experimental block are the responsibility of the primary author. See the manuscript's Generative AI Disclosure note at the end of the PDF.
+The author used Claude Code (Anthropic) in developing and running the fetcher scripts and analysis pipelines. The author bears full responsibility for all conceptual framing, analytical decisions, and the final content of the manuscript. See the manuscript's Generative AI Disclosure note at the end of the PDF.
 
 ---
 

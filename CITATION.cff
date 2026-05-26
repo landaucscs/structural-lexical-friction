@@ -2,8 +2,10 @@ cff-version: 1.2.0
 message: "If you use this work, please cite the manuscript and the released code/data archive."
 title: "Structural-Lexical Friction: A Cross-Register Computational Study of Text Difficulty"
 authors:
-  - family-names: "[Author]"
-    given-names: "[Author]"
+  - family-names: "Kim"
+    given-names: "Jaeho"
+    email: "goldenline97@gmail.com"
+    affiliation: "Independent Researcher, Seoul, South Korea"
 abstract: >
   Working paper introducing the construct of *structural-lexical friction*,
   operationalised through seventeen per-passage indices computed across a

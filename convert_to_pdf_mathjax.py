@@ -148,8 +148,13 @@ def strip_yaml(md_text: str) -> str:
 
 
 def main() -> int:
-    log("step PDF-FIX/2 · loading manuscript.md")
-    md_path = HERE / "manuscript.md"
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--input", default="manuscript.md")
+    ap.add_argument("--output", default="manuscript.pdf")
+    args = ap.parse_args()
+    log(f"step PDF-FIX/2 · loading {args.input}")
+    md_path = HERE / args.input
     md_text = strip_yaml(md_path.read_text(encoding="utf-8"))
 
     log("step PDF-FIX/2 · markdown -> HTML")
@@ -185,7 +190,7 @@ def main() -> int:
         "</body></html>"
     )
 
-    html_path = HERE / "manuscript.html"
+    html_path = HERE / (Path(args.output).stem + ".html")
     html_path.write_text(html, encoding="utf-8")
     log(f"step PDF-FIX/2 · wrote {html_path.name}")
 
@@ -204,7 +209,7 @@ def main() -> int:
             )
             page.wait_for_timeout(500)
             log("step PDF-FIX/2 · rendering pdf")
-            pdf_path = HERE / "manuscript.pdf"
+            pdf_path = HERE / args.output
             page.pdf(
                 path=str(pdf_path),
                 format="Letter",
